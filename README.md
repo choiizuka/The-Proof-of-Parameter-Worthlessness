@@ -5,6 +5,15 @@
 # The-Proof-of-Parameter-Worthlessness
 Nobunaga OS 2.0: Scientific Research Report Biological Inequity in Information Processing – The Proof of Parameter Worthlessness | 科学研究レポート 情報処理における生物学的不平等 —— パラメーターの無価値の証明
 
+---
+
+## Page Index | ページ構成
+
+- 1:English | 英語
+- 2:Japanese | 日本語
+
+---
+
 ## 🏯 Nobunaga OS 2.0: Scientific Research Report
 
 **Subject: Biological Inequity in Information Processing – The Proof of Parameter Worthlessness**
